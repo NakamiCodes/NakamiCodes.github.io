@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: PeachQE
+subtitle: GraphQL Query Visualizer
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: PeachQE.jpg
+thumbnail: PeachQE.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: January 2021
+client: Open Source
+category: Developer Tool
+description: A powerful GraphQl Relay-based Electron application designed for exploring and auditing queries with ease and readability. This innovative application provides an intuitive and user-friendly interface for navigating queries, allowing for seamless exploration and analysis. With a focus on reliability and performance, this Electron application raises the bar for modern web development and sets a new standard for exploring and auditing GraphQL queries.
 
 ---
