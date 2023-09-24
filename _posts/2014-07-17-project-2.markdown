@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: SleepRX
+subtitle: Sleep Tracking And Optimization
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: SleepRX.png
+thumbnail: SleepRX.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: April 2020
+client: Open Source
+category: Health Optimization
+description: Created an innovative online sleep tracker and journal to help users take control of their sleep habits and achieve their wellness goals. By leveraging cutting-edge web technologies like React, PostgreSQL, and Express, we built a platform that delivers powerful features like customizable data storage, seamless CRUD operations, and a REST API for easy access to sleep data. With a sleek and intuitive user interface, our application empowers users to monitor and improve their sleep patterns, all while enjoying a smooth and responsive user experience. Whether you're a seasoned wellness enthusiast or just starting out on your wellness journey, our sleep tracker and journal is the perfect tool to help you achieve your goals and live your best life.
 
 ---

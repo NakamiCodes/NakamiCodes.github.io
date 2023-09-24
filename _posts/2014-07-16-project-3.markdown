@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Substance Abuse Disorder Assistant
+subtitle: Aiding The Fight Against Drug Abuse
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: SUD.jpg
+thumbnail: SUD.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: June 2019
+client: Open Source
+category: Community Service
+description: As a dedicated team of engineers, we were inspired to make a positive impact on the world by helping individuals struggling with substance abuse. Using our expertise in web development, we created a powerful online application that provides users with a comprehensive suite of tools for tracking their daily activities, journaling their progress, and accessing helpful tips and resources. By leveraging advanced technologies like React and database management systems, we built a scalable, reliable, and user-friendly platform that delivers exceptional performance and functionality. Our application is more than just a tool - it's a powerful resource for those in need, offering hope, support, and encouragement to those on their path to recovery.
 
 ---
