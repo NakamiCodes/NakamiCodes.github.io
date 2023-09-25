@@ -9,16 +9,6 @@ description: "Nakami Hope-Felix's Portfolio Website"
 
 # Team names, titles and social links
 people:
-- name: Casual
-  pic: 1
-  position: Out on a walk
-  social:
-    - title: twitter
-      url: https://twitter.com/Nuckaahf
-    - title: instagram
-      url: https://www.instagram.com/kallme_kami/
-    - title: github
-      url: https://github.com/NakamiCodes
 
 - name: Professional
   pic: 2
@@ -30,6 +20,17 @@ people:
       url: #
     - title: linkedin
       url: #
+      
+- name: Casual
+  pic: 1
+  position: Out on a walk
+  social:
+    - title: twitter
+      url: https://twitter.com/Nuckaahf
+    - title: instagram
+      url: https://www.instagram.com/kallme_kami/
+    - title: github
+      url: https://github.com/NakamiCodes
 
 - name: At Home Wear
   pic: 3
