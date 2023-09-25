@@ -10,18 +10,18 @@ description: "Nakami Hope-Felix's Portfolio Website"
 # Team names, titles and social links
 people:
 
-- name: Professional
+- name: Front End
   pic: 2
   position: Trying hard to be photogenic
   social:
-    - title: twitter
+    - title: 
       url: #
-    - title: facebook
+    - title: 
       url: #
-    - title: linkedin
+    - title: 
       url: #
       
-- name: Casual
+- name: Full Stack Engineer
   pic: 1
   position: Out on a walk
   social:
@@ -32,15 +32,15 @@ people:
     - title: github
       url: https://github.com/NakamiCodes
 
-- name: At Home Wear
+- name: Back End
   pic: 3
   position: Most days of the week
   social:
-    - title: twitter
+    - title: 
       url: #
-    - title: facebook
+    - title: 
       url: #
-    - title: google-plus
+    - title: 
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
